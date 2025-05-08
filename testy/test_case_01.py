@@ -1,2 +1,2 @@
 
-print("Witaj!")
+print("Witaj Debesis!")
